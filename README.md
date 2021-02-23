@@ -1,5 +1,3 @@
-#EXTINF:0 group-title="LOKALE",===>>[WELCOME]<<=== 
-http://cloudcdn.tk:80/lala1mars.m3u8
 #EXTINF:0 group-title="LOKALE",RTK 1 
 #EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/9458
