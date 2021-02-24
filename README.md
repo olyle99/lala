@@ -1426,6 +1426,8 @@ https://videos.files.wordpress.com/RtS1eOXZ/wp-1607433860259_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(SHQIP)" tvg-logo="https://i.ibb.co/8KMrNvF/fk.jpg",[FAMILJA KUQEZI] DUKE PRITUR DJALIN [$]
 https://videos.files.wordpress.com/rt9mVOsf/wp-1607433607593_dvd.mp4
 
+#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/1Z1Cbnn.jpg",=====>>[PAKETA(VOD)]<<=====
+https://i.imgur.com/1Z1Cbnn.jpg
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/59tgju0.png",[$]FALCO
 https://videos.files.wordpress.com/vQ7QEjmb/falco_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/59tgju0.png",[$]I LOVE TROPOJA
@@ -1548,6 +1550,30 @@ https://naimi.gjirafa.com/api/media/gjvideo/yqkzxg/1080/index.m3u8
 #EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]ZIBIDI
 https://samiu.gjirafa.com/api/media/gjvideo/yqkzxq/1080/index.m3u8
 
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 1
+https://videos.files.wordpress.com/9ixJx6xb/vetem1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 2
+https://videos.files.wordpress.com/8A97TJU9/vetem2_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 3
+https://videos.files.wordpress.com/WMhHAMzc/vetem3_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SKYFIRE
+https://videos.files.wordpress.com/Lv1CIkSi/skyfire_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SANTANA
+https://videos.files.wordpress.com/SpCg7Gu4/santana_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]DEAD
+https://videos.files.wordpress.com/m7sK31U2/dead2020_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]COME PLAY
+https://videos.files.wordpress.com/F00BEDU0/comeplay-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FEAR PHRAM
+https://videos.files.wordpress.com/DzdtvTZa/fearpharm_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SONIC THE HEDGEHOG
+https://videos.files.wordpress.com/mDkUXCHJ/sonicthehedgehog-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BUTCHERS
+https://videos.files.wordpress.com/y5BURNzE/butchers_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]WRONG TURN
+https://videos.files.wordpress.com/ygbhDChQ/wrongturn2021_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]GHOST RIDER SPIRIT
+https://videos.files.wordpress.com/efLI2ZN6/ghostriderspirit_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BLOODSHOT
 https://videos.files.wordpress.com/hkFuLUXG/bloodshot_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]VANGUARD
@@ -1628,6 +1654,7 @@ https://videos.files.wordpress.com/b3Yu5wJC/blacsitedelta_dvd.mp4
 https://videos.files.wordpress.com/yZzcIP68/vandame_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]RIDIK
 https://videos.files.wordpress.com/NghqPtpK/ridik_std.mp4
+
 
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/PV5RrMA.png",[$]MR.BEAN
 https://k.top4top.io/m_14780yajy3.mp4
@@ -2179,4 +2206,468 @@ https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7
 #EXTINF:-1 group-title="[IT]FILMA(VOD)" tvg-logo="https://i.imgur.com/9fTFOy5.png",[$]Workers * Pronti A Tutto 2012
 https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5934141_,800,1800,.mp4.csmil/index_1_av.m3u8
 
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/iGElkWw6/take1.1_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/kLlRbvhD/take1.2_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/ZmddIcZH/take1.3_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/s0wfoMZZ/take1.4_hd.mp4 
 
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/M7VDal9.jpg",[LUPIN] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/Blz62iIU/lupin1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/M7VDal9.jpg",[LUPIN] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/E1zGk9CI/lupin1-1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/M7VDal9.jpg",[LUPIN] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/d7uCNoXE/lupin1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/M7VDal9.jpg",[LUPIN] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/oit76rHz/lupin1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/M7VDal9.jpg",[LUPIN] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/Tm7731jU/lupin1.5_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/CJyDRv9/CH.jpg",[CHERNOBYL] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/ZHNFlJHL/chernobyls01e01_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/CJyDRv9/CH.jpg",[CHERNOBYL] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/FL91BCCG/cernobils01e02_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/CJyDRv9/CH.jpg",[CHERNOBYL] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/XFBRrdxd/chernobyls01e03_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/CJyDRv9/CH.jpg",[CHERNOBYL] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/iEla0Hbq/chernobyl1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/CJyDRv9/CH.jpg",[CHERNOBYL] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/dfmRUjhV/chernobyls01e05-2_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/i7DnPjN.jpg",[FATE: WINX SAGA] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/0D1Da4FL/fate1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/i7DnPjN.jpg",[FATE: WINX SAGA] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/vVrwfpNN/fate1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/i7DnPjN.jpg",[FATE: WINX SAGA] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/42VY6TZJ/fate1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/i7DnPjN.jpg",[FATE: WINX SAGA] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/EnU698AR/fate1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/i7DnPjN.jpg",[FATE: WINX SAGA] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/F18u525O/fate1-1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/i7DnPjN.jpg",[FATE: WINX SAGA] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/ED7tQ6C7/fate1.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/IbQfbyn.jpg",[THE SPY] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/k4wAyJWC/spy1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/IbQfbyn.jpg",[THE SPY] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/yG12NF8m/sp1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/IbQfbyn.jpg",[THE SPY] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/PcsGpE2p/spy1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/IbQfbyn.jpg",[THE SPY] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/LgXx4qkV/spy1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/IbQfbyn.jpg",[THE SPY] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/2I8I6Lto/spy1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/IbQfbyn.jpg",[THE SPY] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/Bij8WliU/spy1.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gzd81lI.jpg",[SPARTACUS] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/sEU5Pda5/sparta1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gzd81lI.jpg",[SPARTACUS] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/dYnAVsrw/sparta1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gzd81lI.jpg",[SPARTACUS] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/KZZkU8Gi/sparta1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gzd81lI.jpg",[SPARTACUS] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/2Lcfotzc/sparta1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gzd81lI.jpg",[SPARTACUS] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/kNiLJ8AK/sparta1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gzd81lI.jpg",[SPARTACUS] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/pya4JLx2/sparta1.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hCxpL8q.jpg",[SKYLINES] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/HRwRx8kV/sky1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hCxpL8q.jpg",[SKYLINES] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/W9N4NzfQ/sky1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hCxpL8q.jpg",[SKYLINES] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/2fNGXObu/sky1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hCxpL8q.jpg",[SKYLINES] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/P7UJ4YEs/sky1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hCxpL8q.jpg",[SKYLINES] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/MRK1xh58/sky1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hCxpL8q.jpg",[SKYLINES] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/9A6lQEDW/sky1.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/N5gnJDk.jpg",[OTTOMAN EMPIRES] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/Z4KAPU19/ot1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/N5gnJDk.jpg",[OTTOMAN EMPIRES] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/n1YuD7aQ/ot1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/N5gnJDk.jpg",[OTTOMAN EMPIRES] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/M6Jm8i5B/ot1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/N5gnJDk.jpg",[OTTOMAN EMPIRES] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/zhLARmK7/ot1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/N5gnJDk.jpg",[OTTOMAN EMPIRES] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/QDkgULsc/ot1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/N5gnJDk.jpg",[OTTOMAN EMPIRES] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/o4r2OPEB/ot1.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/WiyI9lIp/qq1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/UD7QAbhP/qq1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/Ik2Ytwah/qq1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/UCIEi3Vp/qq1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/OotHuOxj/qq1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/SwbW20IT/qq1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/6focJV55/qq1.7_hd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/DYrv8JOv/saygi1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/R0JbVGGl/saygi1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/RhPiQcTB/saygi1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/uFkbFqgY/saygi1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/1NhVwCV9/saygi1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/OHSUg8Cd/saygi1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/sBkkVy9C/saygi1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/SqrCZ7Mg/sa1.8_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/RBCVk1ej/coins1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/paOY0Hp0/coins1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/B8KRgGiz/coins1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/tBNjWPbU/coins1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/cYGQyekd/coins1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/dj5Dm620/coins1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/OE5Lx5kv/c30_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amq2wMb.png",[30 COINS] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/ISBQRB7L/coins1.8_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/gjMTNAhr/wn1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/2J60Jhlu/wn1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/ImmhXpQn/wn1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/nQ4TPoO3/wn1.4-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/HEl4Hg1y/warriornun1-5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/y6sIEVZ1/wn1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/tD0dsnH2/wn1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/MQc6yeLX/wn1.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/Pweg51pV/wn1.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/2QxGG6k.jpg",[WARRIOR NUN] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/ZvzGTnuS/wn1.10_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/e2ni2dGR/wu1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/D7CsGuab/wu1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/PRrdDGZ4/wu1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/mE8BI5Qg/wu1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/1z7qQTLm/wu1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/E61KvkPr/wu1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/FdfsKdlR/wu1-1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/DLetT9vD/wu1.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/9oS1apt3/wu1.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1KwghuU.jpg",[WU ASSASSINS] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/EBnKlroV/wu1.10_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/uYr6zcnk/cursed1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/CavzVRF7/cursed1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/b10A4VWd/cr1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/lpcUytg3/cursed1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/TvX8iIyb/cursed1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/rWXjD6Xh/cursed1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/sC22wTCN/cursed1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/QKDEWyz8/cursed1.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/OHAFY20v/cursed1.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vdbZZr8.jpg",[CURSED] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/KJSGXtMy/cursed1.10_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/Gzcy3pQP/do1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/D00m6JDN/do1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/ZGLPokbh/do1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/e8XmQxnR/do1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/Wsvh9R2n/do1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/wlUPKMg0/do1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 02 EP 01[$]*
+https://videos.files.wordpress.com/mDCQoClK/do2.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 02 EP 02[$]
+https://videos.files.wordpress.com/C9Dwl0QD/do2.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 02 EP 03[$]
+https://videos.files.wordpress.com/ZkYEJQtf/do2.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 02 EP 04[$]
+https://videos.files.wordpress.com/k54okCzA/do2.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 02 EP 05[$]
+https://videos.files.wordpress.com/42aqBJU2/do2.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/QC08pPX/DRUGS.jpg",[DRUGS ONLINE] SEZ 02 EP 06[$]
+https://videos.files.wordpress.com/NIRRjDbU/do2.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/GSI6A78k/p1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/hMzyZghg/p1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/HLSCtPdW/p1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/CSxOVaSV/p1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/AHEsIV2o/p1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/omrf3te6/p1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/qBpLEBs7/p1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/7xDzCzPQ/p1.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/ofEhDaET/p1.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WxtsTDT.jpg",[POWER BOOK:GHOST] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/jxy0pGwy/p1.10_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 01[$]
+http://62.210.209.138:41000/series/v52/v43/1844.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 02[$]
+http://62.210.209.138:41000/series/v52/v43/1845.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 03[$]
+http://62.210.209.138:41000/series/v52/v43/1846.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 04[$]
+http://62.210.209.138:41000/series/v52/v43/1847.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 05[$]
+http://62.210.209.138:41000/series/v52/v43/1848.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 06[$]
+http://62.210.209.138:41000/series/v52/v43/1849.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 07[$]
+http://62.210.209.138:41000/series/v52/v43/1850.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 08[$]
+http://62.210.209.138:41000/series/v52/v43/1851.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 09[$]
+http://62.210.209.138:41000/series/v52/v43/1852.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 10[$]
+http://62.210.209.138:41000/series/v52/v43/1853.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 11[$]
+http://62.210.209.138:41000/series/v52/v43/1854.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 12[$]
+http://62.210.209.138:41000/series/v52/v43/1855.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 13[$]
+http://62.210.209.138:41000/series/v52/v43/1856.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 14[$]
+http://62.210.209.138:41000/series/v52/v43/1857.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 15[$]
+http://62.210.209.138:41000/series/v52/v43/1858.mkv
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/xqJw2e2.png",[MR BEAN] SEZ 01 EP 16[$]
+http://62.210.209.138:41000/series/v52/v43/1859.mkv
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/4W2m04ZV/sb1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/mDtnnezm/sb1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/RZZk2Sdq/sb1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/fDfMdhiH/sb1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/wk5cRB7y/sb1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/kOIajpn1/sb1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/3NkVSKZx/sb1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/GbSanVPo/sb1.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/0FZwsmFF/sb1.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/r8wplvUa/sb1.10_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 01[$]*
+https://videos.files.wordpress.com/RUjoQlIS/sb2.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 02[$]
+https://videos.files.wordpress.com/tc4eYMuw/sb2.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 03[$]
+https://videos.files.wordpress.com/0CbiMXtl/sb2.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 04[$]
+https://videos.files.wordpress.com/fzCSKfoJ/sb2.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 05[$]
+https://videos.files.wordpress.com/YRbfmTcb/sb2.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 06[$]
+https://videos.files.wordpress.com/kuAafqFO/sb2.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 07[$]
+https://videos.files.wordpress.com/EF51Q2ga/sb2.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 02 EP 08[$]
+https://videos.files.wordpress.com/YWPEBbW9/sb2.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 03 EP 01[$]*
+https://videos.files.wordpress.com/onRwPm1p/sb3.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 03 EP 02[$]
+https://videos.files.wordpress.com/QqmQe17p/sb3.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 03 EP 03[$]
+https://videos.files.wordpress.com/1GnxjE4t/sb3.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 03 EP 04[$]
+https://videos.files.wordpress.com/wAhCCBXV/sb3.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 03 EP 05[$]
+https://videos.files.wordpress.com/l8KZ5Z7K/sb3.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/JCr0tWg/SU.jpg",[SUBURRA] SEZ 03 EP 06[$]
+https://videos.files.wordpress.com/jGNIofYH/sb3.6_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 01[$]*
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E01.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 02[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E02.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 03[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E03.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 04[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E04.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 05[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E05.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 06[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E06.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 07[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E07.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 08[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E08.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 09[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E09.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 10[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E10.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 11[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E11.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 12[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E12.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 01 EP 13[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E13.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 01[$]*
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E01.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 02[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E02.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 03[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E03.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 04[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E04.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 05[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E05.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 06[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E06.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 07[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E07.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 08[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E08.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 09[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E09.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 10[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E10.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 11[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E11.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 12[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E12.mp4/master.m3u8
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/yWv3v9T.png",[NEW BLACK] SEZ 02 EP 13[$]
+http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S02E13.mp4/master.m3u8
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/IsciqD8m/cp1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/HjJy9tY6/cp1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/DhkLpOnu/cp1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/Q0Ev8yUN/cp1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/ucT8cFPN/cp1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/yxzbyZ2j/cp1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/J3A3Ppy7/cp1.7-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/lkf3xaEg/cp1.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/ItjBMmzm/cp1.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/2iwA6nQd/cp1.10_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 11[$]
+https://videos.files.wordpress.com/1KJvJyYg/cp1.11_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 12[$]
+https://videos.files.wordpress.com/rXaEsekK/cp1.12_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 01 EP 13[$]
+https://videos.files.wordpress.com/W3aj48bU/cp1.13_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 01[$]*
+https://videos.files.wordpress.com/lWhlrZyk/cp2.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 02[$]
+https://videos.files.wordpress.com/EZLQCLKn/cp2.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 03[$]
+https://videos.files.wordpress.com/FoY6GZst/cp2.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 04[$]
+https://videos.files.wordpress.com/ztlpV3iS/cp2.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 05[$]
+https://videos.files.wordpress.com/KYCedRCq/cp2.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 06[$]
+https://videos.files.wordpress.com/H8VDILKH/cp2.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 07[$]
+https://videos.files.wordpress.com/z2utFdaW/cp2.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 08[$]
+https://videos.files.wordpress.com/SQysd1NN/cp2.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 02 EP 09[$]
+https://videos.files.wordpress.com/mKKTiqUz/cp2.9_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 01[$]*
+https://videos.files.wordpress.com/BqD8oGiM/cp3.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 02[$]
+https://videos.files.wordpress.com/71a1p98H/cp3.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 03[$]
+https://videos.files.wordpress.com/Ie4ABtNO/cp3.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 04[$]
+https://videos.files.wordpress.com/KrHo8RjP/cp3.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 05[$]
+https://videos.files.wordpress.com/gWmKq2mu/cp3.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 06[$]
+https://videos.files.wordpress.com/YZ6Sm5U2/cp3.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 07[$]
+https://videos.files.wordpress.com/ckSqqdoI/cp3.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 03 EP 08[$]
+https://videos.files.wordpress.com/jh0cGKi7/cp3.8_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 01[$]*
+https://videos.files.wordpress.com/l7rLj3YV/cp4.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 02[$]
+https://videos.files.wordpress.com/NiTPE5s2/cp4.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 03[$]
+https://videos.files.wordpress.com/QoaHxa9K/cp4.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 04[$]
+https://videos.files.wordpress.com/GfomfCgJ/cp4.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 05[$]
+https://videos.files.wordpress.com/m4ui4pbO/cp4.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 06[$]
+https://videos.files.wordpress.com/jNezhKL1/cp4.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 07[$]
+https://videos.files.wordpress.com/SijANxet/cp4.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/HKGb1m4/cp.jpg",[CASA DE PAPEL] SEZ 04 EP 08[$]
+https://videos.files.wordpress.com/y1IfPeii/cp4.8_dvd.mp4
