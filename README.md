@@ -1550,12 +1550,206 @@ https://naimi.gjirafa.com/api/media/gjvideo/yqkzxg/1080/index.m3u8
 #EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]ZIBIDI
 https://samiu.gjirafa.com/api/media/gjvideo/yqkzxq/1080/index.m3u8
 
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]MISSION IMPOSSIBLE 1
+https://videos.files.wordpress.com/is0MCo6u/mip1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]MISSION IMPOSSIBLE 2
+https://videos.files.wordpress.com/IRyE904O/mip2_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]MISSION IMPOSSIBLE 3
+https://videos.files.wordpress.com/BnSm7UsB/mip3_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]MISSION IMPOSSIBLE 4
+https://videos.files.wordpress.com/2EjKDE1u/mip4_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]MISSION IMPOSSIBLE 5
+https://videos.files.wordpress.com/6k1Md82b/mip5_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]MISSION IMPOSSIBLE 6
+https://videos.files.wordpress.com/scOyC1e0/mip6_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI 1
+https://videos.files.wordpress.com/NDqpVYLw/taxi_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI 2
+https://videos.files.wordpress.com/4eXnIzbD/taxi2_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI 3
+https://videos.files.wordpress.com/lBdFtTIy/taxi3_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI 4
+https://videos.files.wordpress.com/K5r6XdaW/taxi4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI 5
+https://videos.files.wordpress.com/9sF0q6AU/taxi5_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TRANSFORMERS 1
+https://videos.files.wordpress.com/HpZntVnw/transformers1_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TRANSFORMERS 2
+https://videos.files.wordpress.com/ELuwVF6S/transformers2_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TRANSFORMERS 3
+https://videos.files.wordpress.com/9AbjoyA6/transformers3_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TRANSFORMERS 4
+https://videos.files.wordpress.com/GzeKaEAb/transformers4_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TRANSFORMERS 5
+https://videos.files.wordpress.com/usCL3k5W/transformers5_std.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 1
 https://videos.files.wordpress.com/9ixJx6xb/vetem1_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 2
 https://videos.files.wordpress.com/8A97TJU9/vetem2_std.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 3
 https://videos.files.wordpress.com/WMhHAMzc/vetem3_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HOME ALONE 4
+https://videos.files.wordpress.com/Zy5UZlbe/vetem4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IP MAN 1
+https://videos.files.wordpress.com/cqel6LUn/ipman_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IP MAN 2
+https://videos.files.wordpress.com/dMR2hmIi/ipman2_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IP MAN 3
+https://videos.files.wordpress.com/KjgJk4Yg/ipman3_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IP MAN 4
+https://videos.files.wordpress.com/PJ755p6U/ipman4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SPIDER-MAN 1
+https://videos.files.wordpress.com/nciMkOnG/s-m1_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SPIDER-MAN 2
+https://videos.files.wordpress.com/CY1ZPpCs/s-m2_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SPIDER-MAN 3
+https://videos.files.wordpress.com/eXHmwOxu/s-m3_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE TRANSPORTER 1
+https://videos.files.wordpress.com/2yhusgu3/tr1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE TRANSPORTER 2
+https://videos.files.wordpress.com/r8HiweAL/tr2_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE TRANSPORTER 3
+https://videos.files.wordpress.com/XMhyCwK9/tr3_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IRON MAN 1
+https://videos.files.wordpress.com/2W4q5yl9/ironman-1_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IRON MAN 2
+https://videos.files.wordpress.com/JurpU8vu/ironman2_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IRON MAN 3
+https://videos.files.wordpress.com/9PGrNJRy/ironman3-1_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]GHOST RIDER 1
+https://videos.files.wordpress.com/7mgKPI7z/ghostrider_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]GHOST RIDER 2
+https://videos.files.wordpress.com/0zLxhbPI/ghostrider2_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE DEBT COLLECTOR
+https://videos.files.wordpress.com/qI8PEvQE/thedebtcollector_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE DEBT COLLECTOR 2
+https://videos.files.wordpress.com/CsN8Rx9H/thedebtcollector2_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TOM & JERRY
+https://videos.files.wordpress.com/TNFDl0L0/tomandjerry_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SNIPER
+https://videos.files.wordpress.com/OcxhDYm0/sniper_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE DAY AFTER TOMORROW
+https://videos.files.wordpress.com/hUlt7gui/thedayaftertomorrow_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]HARD TARGET
+https://videos.files.wordpress.com/O11gXlsm/hardtarget_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]CONTAGION
+https://videos.files.wordpress.com/eMjhtXpC/contagion_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ASSASSINS RUN
+https://videos.files.wordpress.com/u7qZWpWW/assassinsrun_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BELOW ZERO
+https://videos.files.wordpress.com/BMYOH3WU/belowzero_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BLOCK Z
+https://videos.files.wordpress.com/oXcwbHVK/blockz_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]OCEANS TWELVE
+https://videos.files.wordpress.com/pCExSqla/oceanstwelve_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ASPHALT BURNING
+https://videos.files.wordpress.com/kezqQjgJ/asphaltburning_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SAN ANDREAS
+https://videos.files.wordpress.com/UR5H8rLA/sanandreas_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE BRIDGE CURSE
+https://videos.files.wordpress.com/bnhSd395/thebridgecurse_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BETTER DAYS
+https://videos.files.wordpress.com/RW2ZX2sD/betterdays_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]CARGO
+https://videos.files.wordpress.com/AR0bcE80/cargo_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE DECLINE
+https://videos.files.wordpress.com/SUUVR34Q/thedecline_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE KILLER
+https://videos.files.wordpress.com/o2eGVW86/thekiller_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE PLATFORM
+https://videos.files.wordpress.com/L3g3R55L/theplatform_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]4X4
+https://videos.files.wordpress.com/GIVxj8wF/4x4_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BREEDER
+https://videos.files.wordpress.com/jOQ5kqDr/breeder_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]A SECOND CHANCE
+https://videos.files.wordpress.com/3OKM1Rdg/asecondchance_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]AMERICAN PIE: GIRLS RULES
+https://videos.files.wordpress.com/A5amH3Gx/americanpiegirlsrules-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BOSS LEVEL
+https://videos.files.wordpress.com/dW74WrFe/bosslevel_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BREACH
+https://videos.files.wordpress.com/1qzBFREZ/breach_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]DISTURBIA
+https://videos.files.wordpress.com/dBix1PgJ/disturbia_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]DO NOT REPLY
+https://videos.files.wordpress.com/7xzLcduS/donotreply_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]GIRL
+https://videos.files.wordpress.com/jObjrK97/girl_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE DARK AND THE WICKED
+https://videos.files.wordpress.com/9O9DD6Ac/thedarkandthewicked_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]CHOK-DEE
+https://videos.files.wordpress.com/vw8JgVlG/chok-dee_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]24H TO LIVE
+https://videos.files.wordpress.com/uXCTEK3p/24htolive_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BLOODY HELL
+https://videos.files.wordpress.com/ZGfIZEKA/bloodyhell_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]STATE OF PLAY
+https://videos.files.wordpress.com/6qgBuWK2/stateofplay_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]8MM
+https://videos.files.wordpress.com/DIvzgxEW/8mm_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]RAVAGE
+https://videos.files.wordpress.com/q1eR4xmH/ravage_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SUPER FAST
+https://videos.files.wordpress.com/gXzBlxdh/superfast_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]OLYMPUS HAS FALLEN
+https://videos.files.wordpress.com/ajJ8hR6v/olympushasfallen_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE FORGIVENESS OF BLOOD
+https://videos.files.wordpress.com/D8arwimn/theforgivenessofblood_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]VANISH
+https://videos.files.wordpress.com/SYP7DC9G/vanish_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]LONDON HAS FALLEN
+https://videos.files.wordpress.com/MYTyDJzX/londonhasfallen_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]RAMPAGNE: PRESIDENT DOWN
+https://videos.files.wordpress.com/3OqGXDAR/rampagepresidentdown_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]STUBER
+https://videos.files.wordpress.com/hojt4eif/stuber-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE LEGEND OF ZORRO
+https://videos.files.wordpress.com/IrbsLeM0/thelegendofzorro_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SPELL
+https://videos.files.wordpress.com/sMlkFFBG/spell_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SNIPER
+https://videos.files.wordpress.com/7zVEhWEq/sniper_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FORENSIC
+https://videos.files.wordpress.com/XvBBUXyq/forensic_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FLINCH
+https://videos.files.wordpress.com/LShewekH/flinch_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ZATHURA
+https://videos.files.wordpress.com/Ilj87nek/zathura_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE ASCENT
+https://videos.files.wordpress.com/CRcoIHku/theascent_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]IN THE TRAP
+https://videos.files.wordpress.com/N4OrPuuv/inthetrap_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BEHIND YOU
+https://videos.files.wordpress.com/KshVJg3u/behindyou_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE VIGIL
+https://videos.files.wordpress.com/ietJXb64/thevigil_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]COLD EYES
+https://videos.files.wordpress.com/ka6ZtvE4/coldeyes_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FREEZER
+https://videos.files.wordpress.com/peoRLwxY/freezer_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]GOODBYE BUTTERFLY
+https://videos.files.wordpress.com/sSZRrQzH/goodbyebutterfly_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE HATER
+https://videos.files.wordpress.com/Kb675Qhi/thehater_std.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE LAST DAYS
+https://videos.files.wordpress.com/Y2BdfVoG/thelastdays_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]YOU SHOULD HAVE LEFT
+https://videos.files.wordpress.com/TpLzFaGX/youshouldhaveleft-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]LOCKED DOWN
+https://videos.files.wordpress.com/SmP7lSKt/lockeddown_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]KNUCKLEDUST
+https://videos.files.wordpress.com/CrnAC8Ve/knuckledust_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]122
+https://videos.files.wordpress.com/HNk0AHyH/122_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE FINAL
+https://videos.files.wordpress.com/D1s9rLkn/thefinal_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BURIED
+https://videos.files.wordpress.com/eBSH0ymK/buried_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ECHO BOOMERS
+https://videos.files.wordpress.com/5akuuOSO/echoboomers_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ESCAPE ROOM
+https://videos.files.wordpress.com/7h6MeXkp/escaperoom_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SKYFIRE
 https://videos.files.wordpress.com/Lv1CIkSi/skyfire_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SANTANA
@@ -1632,8 +1826,6 @@ https://videos.files.wordpress.com/EcbOz55t/armourofgod_dvd.mp4
 https://videos.files.wordpress.com/4d0CSGbT/devil27s_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]KILL SPEED
 https://videos.files.wordpress.com/B22uDAVw/killspeed_dvd.mp4
-#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI
-https://videos.files.wordpress.com/NDqpVYLw/taxi_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BLEEDING STEEL
 https://videos.files.wordpress.com/XDL7puNT/bleedingsteel_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]KICKBOXER
@@ -1654,7 +1846,6 @@ https://videos.files.wordpress.com/b3Yu5wJC/blacsitedelta_dvd.mp4
 https://videos.files.wordpress.com/yZzcIP68/vandame_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]RIDIK
 https://videos.files.wordpress.com/NghqPtpK/ridik_std.mp4
-
 
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/PV5RrMA.png",[$]MR.BEAN
 https://k.top4top.io/m_14780yajy3.mp4
@@ -2316,6 +2507,23 @@ https://videos.files.wordpress.com/OotHuOxj/qq1.5_dvd.mp4
 https://videos.files.wordpress.com/SwbW20IT/qq1.6_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/gTNEyar.jpg",[QUEEN'S GAMBIT] SEZ 01 EP 07[$]
 https://videos.files.wordpress.com/6focJV55/qq1.7_hd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 01[$]*
+https://videos.files.wordpress.com/n4fSeQu4/k1.1_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/164NsGl5/k1.2_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/lGtAeMWI/k1.3_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/oq12SeJa/k1.4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/anLP5JO9/kh1.5_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/mndcUhyn/k1.6_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/86sUAS6u/k1.7_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/iRmYGqR.jpg",[KALIFAT] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/J3qhQxUo/k1.8_dvd.mp4
 
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/5QB78Rs.jpg",[SAYGI] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/DYrv8JOv/saygi1.1_dvd.mp4
